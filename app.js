@@ -130,8 +130,11 @@
     const agenteA = new Agente("A");
     const agenteB = new Agente("B");
     const agenteC = new Agente("C");
+
     const listaNumerosReales = [1, 10, 23, 25.4];
     const tamanoEscalera = 10;
+
+
     // Funcionalidad 1 para cada Agente
     agenteA.funcionalidad1(listaNumerosReales);
     agenteB.funcionalidad1(listaNumerosReales);

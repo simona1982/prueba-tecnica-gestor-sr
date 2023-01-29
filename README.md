@@ -110,3 +110,11 @@
 
 * __*Otros elementos que considere necesarios para este proyecto.*__
     para las notificaciones sms a telefonos moviles en caso de no contar con un servicio en azure cloud se podria contar con nexmo y utilizar la api para envio de sms con un plan de suscripcion empresarial. 
+
+---
+
+# __Parte 2__
+
+la segunda parte fue escrita en typescript app.ts y su salida en app.js en app.ts encontrara la logica solo debe abrir el archivo index.html e inspeccionar la console y encontrara la salida dejo screenshot del salida del programa.
+
+![Parte 2, prueba tecnica](/assets/images/parte2.png)
